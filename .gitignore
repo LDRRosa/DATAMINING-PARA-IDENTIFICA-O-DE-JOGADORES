@@ -1,0 +1,14 @@
+# Dados e saídas (grandes ou gerados pelos scripts)
+*.csv
+dados/*
+!dados/README.md
+
+# Arquivos do R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.Rproj
+
+# Gráficos gerados
+*.png
